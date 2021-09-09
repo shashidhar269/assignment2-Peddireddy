@@ -50,6 +50,7 @@ It describes the food/drink item name, location and amount of money.
 
 ### Quotes
 
-> If you are good at something, never do it for free - *JOKER* <br>
+> If you are good at something, never do it for free - *JOKER* 
+
 > Live like there's no tomorrow - *Jerry Spinelli*
 
