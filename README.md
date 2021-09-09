@@ -31,3 +31,17 @@ I love **Paris** because it has **Eiffel Tower** and we can enjoy the aerial vie
             * Thickshake 
 
 [AboutMe](AboutMe.md)
+
+The below table describes the types of food/drinks that everyone should try.<br>
+It describes the food/drink item name, location and amount of money.
+ 
+### FOOD & Drink Table
+ 
+---
+ 
+| Food/Drink Item | Location | Amount |
+|   ----------    |  -----   |   ---- | 
+| loose prawns | Hyderabad | $10 |
+| Bourbon Whisky | Maryville | $74 |
+| Chicken Biryani | Hanamkonda | $20 |
+| afghani Mandi special | Warangal | $12 |
