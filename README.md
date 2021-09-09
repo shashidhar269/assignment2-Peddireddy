@@ -58,9 +58,9 @@ It describes the food/drink item name, location and amount of money.
 
 ### Suffix tree
 
-> This article is a stub and doesn't contain any descriptions. For a description of the algorithm, refer to other sources, such as Algorithms on Strings, Trees, and Sequences by Dan Gusfield.
+> Suffix tree is a compressed trie of all the suffixes of a given string. Suffix trees help in solving a lot of string related problems like pattern matching, finding distinct substrings in a given string, finding longest palindrome etc...
 
-> This algorithm builds a suffix tree for a given string s of length n in O(nlog(k))) time, where k is the size of the alphabet (if k is considered to be a constant, the asymptotic behavior is linear).
+suffix tree Content <https://www.hackerearth.com/practice/data-structures/advanced-data-structures/suffix-trees/tutorial/>
 
 ```
 
@@ -154,5 +154,5 @@ void build_tree() {
 
 ```
 
-Suffix tree link <https://cp-algorithms.com/string/suffix-tree-ukkonen.html>
+Suffix tree code link <https://cp-algorithms.com/string/suffix-tree-ukkonen.html>
 
