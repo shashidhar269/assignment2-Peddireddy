@@ -45,3 +45,11 @@ It describes the food/drink item name, location and amount of money.
 | Bourbon Whisky | Maryville | $74 |
 | Chicken Biryani | Hanamkonda | $20 |
 | afghani Mandi special | Warangal | $12 |
+
+---
+
+### Quotes
+
+> If you are good at something, never do it for free - *JOKER* <br>
+> Live like there's no tomorrow - *Jerry Spinelli*
+
